@@ -3,6 +3,11 @@
   box-sizing: border-box;
   background-color: black;
 }
+
+li {
+  list-style-type: none;
+}
+
 .layout {
   height: 100vh;
   max-width: 500px;
